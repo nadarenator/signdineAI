@@ -2,3 +2,6 @@ venv
 *data
 logs
 models
+*cache*
+.*
+test*
